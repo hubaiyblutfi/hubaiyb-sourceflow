@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/iv-assignment/static/css/main.dbe38f62.css",
-    "main.js": "/iv-assignment/static/js/main.03e1f72b.js",
-    "static/js/453.c149cf97.chunk.js": "/iv-assignment/static/js/453.c149cf97.chunk.js",
-    "static/media/bootstrap-icons.woff?": "/iv-assignment/static/media/bootstrap-icons.ff25a7ff93ea67f144c5.woff",
-    "static/media/bootstrap-icons.woff2?": "/iv-assignment/static/media/bootstrap-icons.ca961065e092080ca3f5.woff2",
-    "index.html": "/iv-assignment/index.html",
-    "main.dbe38f62.css.map": "/iv-assignment/static/css/main.dbe38f62.css.map",
-    "main.03e1f72b.js.map": "/iv-assignment/static/js/main.03e1f72b.js.map",
-    "453.c149cf97.chunk.js.map": "/iv-assignment/static/js/453.c149cf97.chunk.js.map"
+    "main.css": "/hubaiyb-sourceflow/static/css/main.1f22c3f5.css",
+    "main.js": "/hubaiyb-sourceflow/static/js/main.f6c81f8a.js",
+    "static/js/453.c149cf97.chunk.js": "/hubaiyb-sourceflow/static/js/453.c149cf97.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/hubaiyb-sourceflow/static/media/bootstrap-icons.ff25a7ff93ea67f144c5.woff",
+    "static/media/bootstrap-icons.woff2?": "/hubaiyb-sourceflow/static/media/bootstrap-icons.ca961065e092080ca3f5.woff2",
+    "index.html": "/hubaiyb-sourceflow/index.html",
+    "main.1f22c3f5.css.map": "/hubaiyb-sourceflow/static/css/main.1f22c3f5.css.map",
+    "main.f6c81f8a.js.map": "/hubaiyb-sourceflow/static/js/main.f6c81f8a.js.map",
+    "453.c149cf97.chunk.js.map": "/hubaiyb-sourceflow/static/js/453.c149cf97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dbe38f62.css",
-    "static/js/main.03e1f72b.js"
+    "static/css/main.1f22c3f5.css",
+    "static/js/main.f6c81f8a.js"
   ]
 }
