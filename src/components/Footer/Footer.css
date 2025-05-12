@@ -1,0 +1,47 @@
+.footer-custom {
+  background: var(--main-blue);
+}
+.footer-custom .footer-link {
+  color: #fff;
+  text-decoration: none;
+  opacity: 0.85;
+  transition: opacity 0.2s;
+}
+.footer-custom .footer-link:hover {
+  opacity: 1;
+  text-decoration: underline;
+}
+.footer-custom .footer-social {
+  color: #fff;
+  font-size: 1.2rem;
+  opacity: 0.8;
+  transition: opacity 0.2s;
+}
+.footer-custom .footer-social:hover {
+  opacity: 1;
+}
+
+.footer-custom .accordion {
+  background: transparent;
+}
+.footer-custom .accordion-item {
+  background: transparent;
+  border: none;
+}
+.footer-custom .accordion-header {
+  background: transparent;
+}
+.footer-custom .accordion-button {
+  background: transparent;
+  color: #fff;
+  box-shadow: none;
+}
+.footer-custom .accordion-button:not(.collapsed) {
+  background: transparent;
+  color: #ffe36e;
+}
+.footer-custom .accordion-body {
+  background: transparent;
+  color: #fff;
+  border-top: none;
+} 

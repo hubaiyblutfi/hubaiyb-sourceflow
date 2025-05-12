@@ -1,0 +1,29 @@
+.job-card {
+  border-radius: 24px;
+  border: none;
+  box-shadow: 0 4px 24px rgba(35,81,162,0.08);
+}
+.job-card-yellow {
+  background: var(--main-yellow);
+}
+.job-card-blue {
+  background: var(--main-blue);
+}
+.job-card-orange {
+  background: var(--main-orange);
+}
+
+.job-card .btn {
+  border-radius: 2rem;
+  font-weight: 600;
+}
+.badge {
+color: var(--main-blue);
+}
+
+
+@media (max-width: 768px) {
+  .job-card {
+    margin-bottom: 1.5rem;
+  }
+} 
