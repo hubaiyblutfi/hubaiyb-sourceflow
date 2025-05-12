@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/hubaiyb-sourceflow/static/css/main.d264603f.css",
-    "main.js": "/hubaiyb-sourceflow/static/js/main.630e6d45.js",
+    "main.css": "/hubaiyb-sourceflow/static/css/main.a901c0a2.css",
+    "main.js": "/hubaiyb-sourceflow/static/js/main.fe8833ee.js",
     "static/js/453.c149cf97.chunk.js": "/hubaiyb-sourceflow/static/js/453.c149cf97.chunk.js",
     "static/media/bootstrap-icons.woff?": "/hubaiyb-sourceflow/static/media/bootstrap-icons.ff25a7ff93ea67f144c5.woff",
     "static/media/bootstrap-icons.woff2?": "/hubaiyb-sourceflow/static/media/bootstrap-icons.ca961065e092080ca3f5.woff2",
     "index.html": "/hubaiyb-sourceflow/index.html",
-    "main.d264603f.css.map": "/hubaiyb-sourceflow/static/css/main.d264603f.css.map",
-    "main.630e6d45.js.map": "/hubaiyb-sourceflow/static/js/main.630e6d45.js.map",
+    "main.a901c0a2.css.map": "/hubaiyb-sourceflow/static/css/main.a901c0a2.css.map",
+    "main.fe8833ee.js.map": "/hubaiyb-sourceflow/static/js/main.fe8833ee.js.map",
     "453.c149cf97.chunk.js.map": "/hubaiyb-sourceflow/static/js/453.c149cf97.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d264603f.css",
-    "static/js/main.630e6d45.js"
+    "static/css/main.a901c0a2.css",
+    "static/js/main.fe8833ee.js"
   ]
 }
